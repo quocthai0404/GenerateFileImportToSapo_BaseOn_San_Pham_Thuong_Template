@@ -44,6 +44,6 @@ py main.py
 
 3. Paste vào file **pattern_import_product.xlsx** theo đúng định dạng.
 
----
+4. Vô Sapo -> Sản Phẩm -> Nhập File -> Loại file: sản phẩm thường -> Import file vô -> Done
 
-✅ Vậy là bạn đã chuẩn bị xong file import sản phẩm.
+---
